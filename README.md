@@ -252,6 +252,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Models
 
 - <img src="https://img.shields.io/github/stars/AlexsJones/llmfit?style=social" height="17" align="texttop"/> [llmfit](https://github.com/AlexsJones/llmfit) - hundreds of models & providers, one command to find what runs on your hardware
+- <img src="https://img.shields.io/github/stars/SIDDARTHAREDDY8/fitcheck?style=social" height="17" align="texttop"/> [fitcheck](https://github.com/SIDDARTHAREDDY8/fitcheck) - KV-cache-aware deployment planner: will this model fit on your GPU at this context length, with FITS/TIGHT/OOM verdicts and engine flags
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
 - <img src="https://img.shields.io/github/stars/guidance-ai/llguidance?style=social" height="17" align="texttop"/> [llguidance](https://github.com/guidance-ai/llguidance) - super-fast structured outputs
@@ -377,6 +378,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/evaluator?style=social" height="17" align="texttop"/> [Evaluator](https://github.com/NVIDIA-NeMo/evaluator) - open-source library for scalable, reproducible evaluation of AI models and benchmarks
+- <img src="https://img.shields.io/github/stars/SIDDARTHAREDDY8/guidelint?style=social" height="17" align="texttop"/> [guidelint](https://github.com/SIDDARTHAREDDY8/guidelint) - preflight linter for structured-output configs: 23 version-aware rules for vLLM, llama.cpp, and Ollama catch silently-ignored fields before production
 
 [Back to Table of Contents](#table-of-contents)
 
